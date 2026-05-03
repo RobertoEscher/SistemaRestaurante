@@ -72,3 +72,11 @@ Bash
 
 cd src/SistemaRestaurante.Presentation.Console
 dotnet run
+
+=== LISTA DE COMPRAS SUGERIDAS ===
+-----------------------------------------------------------------------------
+Produto         | Estoque Atual | Consumo Estimado | A Comprar (+20%)
+-----------------------------------------------------------------------------
+Arroz           | 5000g        | 9000g           | 5800 g         
+Carne Bovina    | 3000g        | 8100g           | 6720 g         
+-----------------------------------------------------------------------------
