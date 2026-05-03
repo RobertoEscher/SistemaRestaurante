@@ -1,4 +1,5 @@
 Sistema de Gestão de Restaurante - Sugestão de Compras
+
 Este é um sistema desenvolvido em .NET para auxiliar na gestão de estoque de um restaurante. Com base no histórico de vendas de pratos dos últimos 7 dias e em suas respectivas receitas (ingredientes), o sistema calcula a demanda futura de insumos e gera uma lista de compras sugerida com uma margem de segurança de 20%.
 
 🛠️ Tecnologias Utilizadas
