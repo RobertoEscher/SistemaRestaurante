@@ -67,6 +67,7 @@ dotnet ef database update --project src/SistemaRestaurante.Infrastructure/Sistem
 4. Rodar a aplicação
 
 cd src/SistemaRestaurante.Presentation.Console
+
 dotnet run
 
 
