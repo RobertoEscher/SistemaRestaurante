@@ -47,14 +47,12 @@ Pré-requisitos
 Docker instalado e rodando.
 
 1. Subir o SQL Server no Docker
-Bash
 
 docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=SuaSenhaForte123!" \
    -p 1433:1433 --name sql_restaurante \
    -d mcr.microsoft.com/mssql/server:2022-latest
 
 2. Clonar o repositório e restaurar dependências
-Bash
 
 git clone https://github.com/seu-usuario/SistemaRestaurante.git
 cd SistemaRestaurante
@@ -71,6 +69,4 @@ dotnet ef database update --project src/SistemaRestaurante.Infrastructure/Sistem
 cd src/SistemaRestaurante.Presentation.Console
 dotnet run
 
-Arroz           | 5000g        | 9000g           | 5800 g         
-Carne Bovina    | 3000g        | 8100g           | 6720 g         
------------------------------------------------------------------------------
+
