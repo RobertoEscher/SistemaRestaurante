@@ -13,3 +13,4 @@ D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRe
 D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Application\obj\Debug\net10.0\refint\SistemaRestaurante.Application.dll
 D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Application\obj\Debug\net10.0\SistemaRestaurante.Application.pdb
 D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Application\obj\Debug\net10.0\ref\SistemaRestaurante.Application.dll
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Application\obj\Debug\net10.0\SistemaRestaurante.Application.sourcelink.json
