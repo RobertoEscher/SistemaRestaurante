@@ -1,0 +1,15 @@
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\bin\Debug\net10.0\SistemaRestaurante.Infrastructure.deps.json
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\bin\Debug\net10.0\SistemaRestaurante.Infrastructure.dll
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\bin\Debug\net10.0\SistemaRestaurante.Infrastructure.pdb
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\bin\Debug\net10.0\SistemaRestaurante.Domain.dll
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\bin\Debug\net10.0\SistemaRestaurante.Domain.pdb
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.AssemblyInfo.cs
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaR.4813C645.Up2Date
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.dll
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\refint\SistemaRestaurante.Infrastructure.dll
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\SistemaRestaurante.Infrastructure.pdb
+D:\Users\rober\source\repos\Curso-Csharp-Dotnet\SistemaRestaurante\src\SistemaRestaurante.Infrastructure\obj\Debug\net10.0\ref\SistemaRestaurante.Infrastructure.dll

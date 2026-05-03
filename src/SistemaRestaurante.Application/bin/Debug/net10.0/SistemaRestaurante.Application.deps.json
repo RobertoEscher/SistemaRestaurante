@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SistemaRestaurante.Application/1.0.0": {
+        "dependencies": {
+          "SistemaRestaurante.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SistemaRestaurante.Application.dll": {}
+        }
+      },
+      "SistemaRestaurante.Domain/1.0.0": {
+        "runtime": {
+          "SistemaRestaurante.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaRestaurante.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaRestaurante.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
