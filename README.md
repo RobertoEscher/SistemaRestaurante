@@ -60,15 +60,13 @@ git clone https://github.com/seu-usuario/SistemaRestaurante.git
 cd SistemaRestaurante
 dotnet restore
 
-3. Criar o Banco e Aplicar as Migrations no Banco de Dados
-Bash
+3. Criar o Banco e Aplicar as Migrations no Banco de DadosBash
 
 dotnet ef migrations add InitialCreation --project src/SistemaRestaurante.Infrastructure/SistemaRestaurante.Infrastructure.csproj --startup-project src/SistemaRestaurante.Presentation.Console/SistemaRestaurante.Presentation.Console.csproj
 
 dotnet ef database update --project src/SistemaRestaurante.Infrastructure/SistemaRestaurante.Infrastructure.csproj --startup-project src/SistemaRestaurante.Presentation.Console/SistemaRestaurante.Presentation.Console.csproj
 
 4. Rodar a aplicação
-Bash
 
 cd src/SistemaRestaurante.Presentation.Console
 dotnet run
