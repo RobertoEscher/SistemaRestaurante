@@ -1,9 +1,1 @@
-gerar_apesentacao.py
-src/SistemaRestaurante.Application/obj/Debug/net10.0/SistemaRestaurante.Application.AssemblyInfo.cs
-src/SistemaRestaurante.Application/obj/Debug/net10.0/SistemaRestaurante.Application.AssemblyInfoInputs.cache
-src/SistemaRestaurante.Domain/obj/Debug/net10.0/SistemaRestaurante.Domain.AssemblyInfo.cs
-src/SistemaRestaurante.Domain/obj/Debug/net10.0/SistemaRestaurante.Domain.AssemblyInfoInputs.cache
-src/SistemaRestaurante.Infrastructure/obj/Debug/net10.0/SistemaRestaurante.Infrastructure.AssemblyInfo.cs
-src/SistemaRestaurante.Infrastructure/obj/Debug/net10.0/SistemaRestaurante.Infrastructure.AssemblyInfoInputs.cache
-src/SistemaRestaurante.Presentation.Console/obj/Debug/net10.0/SistemaRestaurante.Presentation.Console.AssemblyInfo.cs
-src/SistemaRestaurante.Presentation.Console/obj/Debug/net10.0/SistemaRestaurante.Presentation.Console.AssemblyInfoInputs.cache
+src/
